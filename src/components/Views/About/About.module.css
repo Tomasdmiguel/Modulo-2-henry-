@@ -1,0 +1,31 @@
+.titulo{
+    margin-top: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color:white;
+    font-size: 4rem;
+}
+
+.p{
+    margin-top: 1rem;
+   margin-bottom: 0.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 1.5rem;
+    text-align: center;
+    color:white;
+}
+
+.letras{
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+}
+.carta {
+    /* medidas */
+         margin-left: 5rem;
+         margin-top: 7rem;
+            width: 90%;
+             height: max-content;
+
+        border-style: double;
+        border-radius: 8rem;
+        border-color: rgb(73, 43, 226);
+}

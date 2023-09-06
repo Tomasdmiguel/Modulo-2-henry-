@@ -1,0 +1,23 @@
+.card{
+    /* margenes */
+
+    margin-top: 5rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 30rem;
+
+    /* fondo */
+    background-color: rgba(77, 159, 189, 0.735);
+
+    /* texto */
+    font-family:  Times, 'Times New Roman', serif;
+    color: rgb(0, 61, 41);
+
+    /* bordes */
+    border-style:solid;
+    border-width: 1rem;
+    border-color: rgb(63, 227, 227);
+    border-radius: 1rem;
+
+}
+

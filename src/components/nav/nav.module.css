@@ -1,0 +1,52 @@
+.nav {
+  height: 4.5rem;
+  margin-top: 1rem;
+   
+    
+}
+
+
+.about{
+    /* estetica */
+    background-color: rgba(0, 128, 255, 0.622);
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    /* medida */
+    width: 4rem;
+    height: 3rem;
+    float: left;
+    margin-left: 2rem;
+    } 
+    .hidden {
+      display: none;
+    }
+    
+    .visible {
+      display: block; /* O cualquier otro valor de display que prefieras */
+    }
+    
+
+
+.home{
+    /* estetica */
+    background-color: rgba(0, 128, 255, 0.622);
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    /* medida */
+    width: 4rem;
+    height: 3rem;
+    float: left;
+    margin-left: 1rem;
+    
+}
